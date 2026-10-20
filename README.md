@@ -160,16 +160,6 @@ A recipe-finding application built with TypeScript.
 
 </div>
 
-### 🌱 GitHub Contribution Graph
-
-<div align="center">
-
-[![Sakshi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshivavale&theme=tokyo-night&hide_border=true)](https://github.com/sakshivavale)
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 - Improving Python programming and SQL skills.
