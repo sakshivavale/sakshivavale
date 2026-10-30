@@ -1,0 +1,37 @@
+
+name: Generate Boss Lady Snake 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sakshivavale
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23DB61A2&color_dots=%231A1028,%237027A0,%23C77DFF,%23DB61A2,%23F4A6D7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23DB61A2
+
+      - name: Save Animation To Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
