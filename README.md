@@ -218,17 +218,11 @@ A TypeScript-based recipe-finding application that helps users discover food and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshivavale&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshivavale&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<br/><br/>
+<br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=sakshivavale&theme=midnight-purple&hide_border=true&ring=DB61A2&fire=C77DFF&currStreakLabel=DB61A2" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakshivavale&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
@@ -244,7 +238,7 @@ A TypeScript-based recipe-finding application that helps users discover food and
 
 ---
 
-## 🎯 CURRENTLY IN MY BOSS ERA
+## 🎯 CURRENTLY IN MY ERA
 
 - 📚 Strengthening Python and SQL fundamentals.
 - 📊 Practicing Exploratory Data Analysis (EDA).
@@ -282,7 +276,7 @@ A TypeScript-based recipe-finding application that helps users discover food and
 <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sakshi-vavale-434ab2318/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
